@@ -74,6 +74,14 @@
     ]
   },
   {
+    "name": "Steam Controller",
+    "namespace": "controlify:steam_controller",
+
+    "hids": [
+      [0x28de, 0x1302], // Steam Controller
+    ]
+  },
+  {
     "name": "Steam Deck",
     "namespace": "controlify:steam_deck",
 
